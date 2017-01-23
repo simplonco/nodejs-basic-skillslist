@@ -1,5 +1,5 @@
 # nodejs-basic-skillslist
-Exercice de base pour nodejs en ligne de command
+Exercice de base pour nodejs en ligne de command => Tout se passe dans le terminal !
 
 ## Consigne :
 
