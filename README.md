@@ -1,5 +1,5 @@
 # nodejs-basic-skillslist
-Exercice de base pour nodejs en ligne de command
+Exercice de base pour nodejs en ligne de command => Tout se passe dans le terminal !
 
 ## Consigne :
 
@@ -17,7 +17,11 @@ les arguments eventuels seront passé en tant qu'argument aussi.
 
 ## Documentation
 
+https://nodejs.org/en/docs/
+(vous allez avoir besoin du package 'fs' de node)
+
 https://egghead.io/courses/introduction-to-node-the-fundamentals
+
 https://github.com/sergtitov/NodeJS-Learning TL;TR
 
 (suite)
