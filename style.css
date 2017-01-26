@@ -1,0 +1,26 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background: #191818;
+  color:#ffffff;
+}
+section{
+  display: flex;
+  justify-content: space-between;
+}
+ul li{
+  list-style-type: none;
+}
+
+h1{
+  text-align: center;
+}
+
+i{
+  color: #ffffff;
+  font-size:2em;
+}
+
+button{
+  background: none;
+  border: none;
+}
